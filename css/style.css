@@ -1,0 +1,21 @@
+h1{
+    font-size: 70px;
+    font-weight: 900;
+    font-family: Impact;
+}
+header p{
+    margin-top: 50px;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+header button{
+    padding: 30px 100px;
+    background-color: blue;
+    
+}
+
+header button:hover{
+    background-color: #008000;
+    cursor:default;
+}
